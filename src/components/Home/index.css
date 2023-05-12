@@ -1,0 +1,33 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.pic-me {
+  height: 30vh;
+  width: 25vw;
+}
+.data-container {
+  background-color: white;
+  width: 100%;
+  padding: 12px;
+  border-radius: 12px;
+}
+.title-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.project-head {
+  font-size: 28px;
+  font-weight: bold;
+  color: black;
+}
